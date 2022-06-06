@@ -4,4 +4,4 @@ console.log("tetse")
 
 console.log('tetse')
 
-console.log(age)
+console.log(age + " É a minha idade")
